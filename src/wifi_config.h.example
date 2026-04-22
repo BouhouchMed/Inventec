@@ -1,0 +1,15 @@
+#pragma once
+
+// =============================================
+//  WiFi Credentials — edit before uploading
+// =============================================
+// Copy this file to wifi_config.h and fill in your credentials
+
+#define WIFI_SSID     "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+
+// Static IP (optional — comment out to use DHCP)
+// #define STATIC_IP
+// #define LOCAL_IP   192,168,1,100
+// #define GATEWAY    192,168,1,1
+// #define SUBNET     255,255,255,0
